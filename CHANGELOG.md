@@ -1,3 +1,7 @@
+3.0.25
+-------------------
+ * Added iOS devices to info command output [TIMOB-5823]
+
 3.0.24 (2/19/2013)
 -------------------
  * Enabled padding for non-log() messages such as info, debug, etc [TIMOB-12436]
